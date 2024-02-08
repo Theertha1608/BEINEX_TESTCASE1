@@ -5,7 +5,6 @@
 p {
     border-bottom: 1px solid rgba(95, 93, 93, 0.5);
 }
-
 .section {
     margin-left: 5px;
     margin-right: 5px;
@@ -13,18 +12,13 @@ p {
     flex-direction: column;
     align-items: flex-start; 
 }
-
-
 .section {
     height: 100%;
 }
-
-
 .section div p {
     flex: 1;
     margin-bottom: 0; 
 }
-
 .section div, p, span
  {
     font-family: Calibri, sans-serif; 
